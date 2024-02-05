@@ -6,3 +6,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+sidebar-blog:
+  - title: "Python"
+    url: "/categories/python"
